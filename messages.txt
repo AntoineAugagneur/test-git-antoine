@@ -1,9 +1,2 @@
 Bonjour
-
-Bonjour from branche-antoine
-
-<<<<<<< HEAD
-hello
-=======
-modif online
->>>>>>> 1be2f77c1fa627f88a036e7dfdcdaa93ff9dfb04
+clean
